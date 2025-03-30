@@ -326,7 +326,7 @@ input[type="submit"] {
 
   .com-status:nth-child(1){
     font-weight: 400;
-    font-size: 1.7ch;
+    /* font-size: 1.7ch; */
   }
 
   .comment-section img {
