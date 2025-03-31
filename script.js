@@ -61,7 +61,7 @@ send_com.addEventListener("click", async (e) => {
 
     if (!userComment) {
         // troll_number.style.fontSize = "1.7ch";
-        troll_number.innerText = "⚠️Empty comments are not allowed.";
+        troll_number.innerText = "⚠️ No Empty comments";
         return;
     }
 
